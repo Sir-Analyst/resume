@@ -1,0 +1,26 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Streamlit
+.streamlit/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Log files or temporary files
+*.log
+*.tmp
+
+# Image files (except your profile pic)
+assets/*
+!assets/pic.jpg

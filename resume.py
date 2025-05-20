@@ -143,7 +143,7 @@ with col1:
             <a href="https://github.com/Sir-Analyst" style="color: #0A66C2;">github.com/Sir-Analyst</a></p>
         <p><i class="fa fa-map-marker" style="color: #555; margin-right: 5px;"></i>
             Helsinki, Finland</p>
-        <p>🌐 <a href="https://sami_resume.streamlit.app" style="color: #0A66C2;" target="_blank">sami_resume.streamlit.app</a></p>
+        <p>🌐 <a href="https://sami-resume.streamlit.app" style="color: #0A66C2;" target="_blank">sami_resume.streamlit.app</a></p>
         """,
         unsafe_allow_html=True,
 
